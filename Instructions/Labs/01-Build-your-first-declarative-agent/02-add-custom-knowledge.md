@@ -33,7 +33,7 @@ Before you can start this exercise, you will need to upload the product-related 
 
 ### Create a SharePoint site
 
-1. In your web browser, navigate to [Microsoft 365 Copilot](https://m365.cloud.microsoft.com) at `https://m365.cloud.microsoft.com` and sign in with the Microsoft 365 account you're using for this lab. 
+1. In your web browser, navigate to [Microsoft Copilot](https://m365.cloud.microsoft.com) at `https://m365.cloud.microsoft.com` and sign in with the Microsoft 365 account you're using for this lab. 
 
 1. Select the **App Launcher** icon (grid icon) in the top left corner of the page, then select **More Apps**.
     ![Screenshot of the M365 apps button in Copilot Chat.](../Media/apps-icon.png)
@@ -54,8 +54,8 @@ Before you can start this exercise, you will need to upload the product-related 
 
 1. On the **Give your site a name** page, enter `Product support`.
 
-> [!NOTE]
-> If the message **The site address is available with modification** appears, modify the site name until the message indicates that the site address is available. You can accept the suggested modification or create your own.
+   > [!NOTE]
+   > If the message **The site address is available with modification** appears, modify the site name until the message indicates that the site address is available. You can accept the suggested modification or create your own.
 
 1. Change the **Privacy settings** to **Public - anyone in the organization can access this site**.
 
@@ -98,6 +98,7 @@ Add the SharePoint URL to your agent as a grounding knowledge source.
 ### Add SharePoint URL
 
 1. In a web browser, navigate to [Microsoft Copilot Studio](https://copilotstudio.microsoft.com/) at `https://copilotstudio.microsoft.com`.
+
 
 1. Skip any messages about new features.
 

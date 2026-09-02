@@ -35,7 +35,7 @@ Before you start the lab exercises, you must create a development environment to
 1. In the **Environments** page, select **+ New** to create a new environment with the following settings:
 
    - **Type**: Developer
-   - **Region**: default region
+   - **Macro Region Geography**: North America
    - **Name**: *Your name*
    
    ![Create an environment in the Power Platform Admin center.](../Media/create-environment.png)
@@ -55,27 +55,29 @@ Before you start the lab exercises, you must create a development environment to
 
 1. Select **Save** and wait until the state of your environment is **Ready** (you can use the **Refresh** button to update the display).
 
-> [!NOTE]
-> Environment provisioning can take several minutes depending on tenant configuration.
+   > [!NOTE]
+   > Environment provisioning can take several minutes depending on tenant configuration.
 
    ![Environment created in the Power Platform Admin center.](../Media/environment-created.png)
 
-5. In a new browser tab, navigate to `https://copilotstudio.microsoft.com/` and sign in if prompted.
+1. In a new browser tab, navigate to `https://copilotstudio.microsoft.com/` and sign in if prompted.
 
-> [!NOTE]  
-> If you experience issues loading Copilot Studio on your environment:
-> - First, capture your environment ID (GUID) from the Power Platform admin center:
->   1. Open the environment you created at `https://admin.powerplatform.microsoft.com/manage/environments`.
->   2. Locate the environment ID in the URL (a long string such as `12345678-90ab-cdef-1234-567890abcdef`).
->   3. Copy and save this value.
-> - Then try accessing your environment directly by pasting your ID into the following URL:
->   ```
->   https://copilotstudio.microsoft.com/environments/<your-environment-id>/home
->   ```
+1. If Copilot Studio opens in the new experience, locate the **New experience** toggle in the upper-right corner of the page and turn it off to return to the classic experience. On the **Submit feedback to Microsoft** dialog, select **Submit** > **Done** to close it. If Copilot Studio opens in the classic experience, skip this step.
 
-6. If prompted, select **Get Started** and keep the default country or region settings.
+   > [!NOTE]  
+   > If you experience issues loading Copilot Studio on your environment:
+   > - First, capture your environment ID (GUID) from the Power Platform admin center:
+   >   1. Open the environment you created at `https://admin.powerplatform.microsoft.com/manage/environments`.
+   >   2. Locate the environment ID in the URL (a long string such as `12345678-90ab-cdef-1234-567890abcdef`).
+   >   3. Copy and save this value.
+   > - Then try accessing your environment directly by pasting your ID into the following URL:
+   >   ```
+   >   https://copilotstudio.microsoft.com/environments/<your-environment-id>/home
+   >   ```
 
-1. Skip any welcome messages.
+1. If prompted, select **Get Started** and keep the default country or region settings.
+
+1. Skip any welcome messages that appear.
 
 1. In the upper right corner of the page, switch environments by using the Environment Selector and select the environment you created.
 

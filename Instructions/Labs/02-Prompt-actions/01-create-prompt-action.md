@@ -17,6 +17,8 @@ This exercise should take approximately **15** minutes to complete.
 
 1. Open Copilot Studio in your web browser by navigating to [Copilot Studio](https://copilotstudio.microsoft.com) at `https://copilotstudio.microsoft.com`.
 
+1. If Copilot Studio opens in the new experience, locate the **New experience** toggle in the upper-right corner of the page and turn it off to return to the classic experience. On the **Submit feedback to Microsoft** dialog, select **Submit** > **Done** to close it. If Copilot Studio opens in the classic experience, skip this step.
+
 1. In the upper-right corner of the page, verify that the Environment Selector shows the environment you created for this lab. If it shows the default environment, select the Environment Selector, then select the environment you created.
 
 1. Select **Tools** from the left navigation.

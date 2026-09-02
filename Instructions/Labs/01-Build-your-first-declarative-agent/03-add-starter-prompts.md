@@ -41,7 +41,7 @@ In Copilot Studio:
 
 ## Republish your agent
 
-Let's publish the updated agent to Microsoft 365 Copilot.
+Let's publish the updated agent to Microsoft Copilot.
 
 1. After your agent's changes have been saved successfully, select **Publish** at the top-right of your agent's overview page in Copilot Studio.
 
@@ -56,14 +56,14 @@ Let's publish the updated agent to Microsoft 365 Copilot.
 1. Wait a few moments while the changes are published to the Product Support agent.
   
    > [!NOTE]
-   > It can take several minutes for newly published suggested prompts to appear in Microsoft 365 Copilot. If you don't see them right away, wait a few minutes, then select **New chat** and reselect **Product Support**. The prompts display on a new, empty session.
+   > It can take several minutes for newly published suggested prompts to appear in the Microsoft Copilot. If you don't see them right away, wait a few minutes, then select **New chat** and reselect **Product Support**. The prompts display on a new, empty session.
 
-1. When the update is complete, return to Copilot Studio and close the modal window. If you're not taken to **Microsoft 365 Copilot** in your browser, go to **Microsoft 365 Copilot** using the **App Launcher** icon (grid icon) in the top-left of the page.
+1. When the update is complete, return to Copilot Studio and close the modal window. If you're not taken to **Microsoft Copilot** in your browser, open **Microsoft Copilot** using the **App Launcher** icon (grid icon) in the top-left of the page.
 
-## Test your agent in Microsoft 365 Copilot
+## Test your agent in Microsoft Copilot
 
-1. In the side panel in **Microsoft 365 Copilot**, find **Product Support** in the list of agents and select it to enter the immersive experience to chat directly with the agent. Notice that the suggested prompts you defined in Copilot Studio display in the user interface.
+1. In the side panel in **Microsoft Copilot**, find **Product Support** in the list of agents and select it to enter the immersive experience to chat directly with the agent. Notice that the suggested prompts you defined in Copilot Studio display in the user interface.
 
-    ![Screenshot of Microsoft 365 Copilot in Microsoft Edge showing the Product Support agent's starter prompts.](../Media/product-support-starter-prompts.png)
+   ![Screenshot of Microsoft Copilot in Microsoft Edge showing the Product Support agent's starter prompts.](../Media/product-support-starter-prompts.png)
 
 1. Select a suggested prompt, send the message, and review the response.
