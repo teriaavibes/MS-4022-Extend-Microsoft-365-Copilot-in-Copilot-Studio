@@ -40,14 +40,7 @@ Before you start the lab exercises, you must create a development environment to
    
    ![Create an environment in the Power Platform Admin center.](../Media/create-environment.png)
 
-1. Expand **Change default settings** and configure the following:
-   - **Environment group**: None
-   - **Make this a Managed Environment**: No
-   - **Get new features early**: No
-   - **Create on behalf**: No
-   - **Add a Dataverse data store?**: Yes
-
-1. Select **Next** and in the **Add Dataverse** section:
+1. In the **Add Dataverse** secion click **+ Add Dataverse** then select:
 
    - **Language**: English (United States)
    - **Currency**: USD ($)
