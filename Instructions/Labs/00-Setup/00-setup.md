@@ -46,7 +46,7 @@ Before you start the lab exercises, you must create a development environment to
    - **Currency**: USD ($)
    - **Deploy sample apps and data**: No
 
-1. Select **Save** and wait until the state of your environment is **Ready** (you can use the **Refresh** button to update the display).
+1. Select **Add** and wait until the state of your environment is **Ready** (you can use the **Refresh** button to update the display).
 
    > [!NOTE]
    > Environment provisioning can take several minutes depending on tenant configuration.
